@@ -1,0 +1,12 @@
+## Interface: 11200
+## Title: rogue tool
+## Notes: This is a rogue tool
+## Notes-zhCN: This is a rogue tool. 
+## Author: fengdage
+## DefaultState: Enabled
+cmd.lua
+var.lua
+function.lua
+class.lua
+rogue_tool.lua
+rogue_tool.xml
